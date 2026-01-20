@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Abdulmuhsin;Software+Engineer;Application+Security+%26+Penetration+Testing+Enthusiast;Securing+Code+One+Line+at+a+Time+🔐" />
+</div>
 
-<!--
-**amtshirazu/amtshirazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Software Engineer | 🔐 Application Security & Penetration Testing Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amtshirazu&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="amtshirazu" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About Me  
+- 🌱 Currently learning **Software Engineering at KTUN**  
+- 💬 Ask me about **Application Security, Penetration Testing & Secure Coding**  
+- 🛡️ Interested in **Web Security, Vulnerability Assessment & Ethical Hacking**  
+- 📫 Reach me at: **abdulmuhsintiyumbas@gmail.com**
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/abdul-muhsin-tiyumba-shirazu-amtshirazu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdulmuhsintiyumbas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,spring,mysql,mongodb,linux,docker,git,flutter,dart,bootstrap" />
+</p>
+
+---
+
+### 🔐 Security Interests  
+- Application Security  
+- Penetration Testing  
+- Secure Web Development  
+- Vulnerability Assessment  
+- OWASP Top 10 Awareness  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amtshirazu&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtshirazu&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amtshirazu&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+✨ *“Security is not a product, but a process.”* – Bruce Schneier ✨  
+</div>
