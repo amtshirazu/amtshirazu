@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-💻 Software Engineer | 🔐 Application Security & Penetration Testing Enthusiast
+💻 Software Engineer | 🔐 Application Security & Penetration Testing
 </h3>
 
 <p align="center">
